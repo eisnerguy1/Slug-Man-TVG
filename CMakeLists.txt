@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 
-set(EXE_NAME "Glypha III")
+set(EXE_NAME "Slug-Man TVG")
 string(REPLACE " " "" EXE_NAME_NOSPACES "${EXE_NAME}")
 set(EXE_IDENTIFIER "com.kainjow.${EXE_NAME_NOSPACES}")
 
