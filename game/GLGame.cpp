@@ -294,7 +294,7 @@ void GL::Game::drawFrame() const
     Renderer *r = renderer_;
     r->clear();
     drawBackground();
-    drawTorches();
+    /*drawTorches();*/
     if (playing) {
         drawPlatforms();
         drawHand();
