@@ -50,7 +50,7 @@ Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to mo
 &nbsp;&nbsp;&nbsp;&nbsp;3. Make the High Score screen font sizes match that of the original game<br>
     <br>
 <img width="640" alt="Screen Shot 2023-04-29 at 12 59 30 PM" src="https://user-images.githubusercontent.com/3295271/235315125-ff8ce46d-8169-494e-a46b-6861c0a62df2.png">
-5. Have Page-o-tron flashing on spawn as shown in the original game<br>
+5. Have Paige-o-tron flashing on spawn as shown in the original game<br>
 6. Set up Intel/Apple Silicon universal binaries<br>
 7. Contact Bill Amend for an updated About image?<br>
 8. Update Info.plist file<br>
