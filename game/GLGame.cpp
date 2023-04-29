@@ -2761,7 +2761,7 @@ void GL::Game::drawHighScores() const
         r->setFillColor(0, 0, 0);
         r->fillRect(scoreDest);
         
-        r->setFillColor(81/255.0f, 245/255.0f, 0/255.0f);
+        r->setFillColor(102/255.0f, 51/255.0f, 255/255.0f);
         font11.drawText(highScoresTitle, scoreSrc.left + ((scoreSrc.width() - highScoresTitleWidth) / 2), scoreSrc.top + 10, font11Img);
         
         char scoreStr[100];
