@@ -2844,6 +2844,51 @@ void GL::Game::drawAbout(Renderer *r) const
 
     y += lineHeight * 2;
     
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+
+    y += lineHeight * 2;
+    
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+
+    y += lineHeight * 2;
+    
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+    y += lineHeight;
+    font11.drawText("", x, y, font11Img);
+}
+
+
+
+/* Leaving this in the code to keep track of those who helped to create this
+ void GL::Game::drawAbout(Renderer *r) const
+{
+    int x = (r->bounds().width() - aboutImg.width()) / 2;
+    int y = (r->bounds().height() - aboutImg.height()) / 2;
+    
+    aboutImg.draw(x, y);
+
+    r->setFillColor(102/255.0f, 51/255.0f, 102/255.0f);
+    
+    const int lineHeight = font11.lineHeight();
+    x += 8;
+    y += 140;
+    
+    font11.drawText(GL_GAME_NAME " " GL_GAME_VERSION, x, y, font11Img);
+
+    y += lineHeight * 2;
+    
     font11.drawText("Original developer:", x, y, font11Img);
     y += lineHeight;
     font11.drawText("John Calhoun of", x, y, font11Img);
@@ -2867,4 +2912,4 @@ void GL::Game::drawAbout(Renderer *r) const
     font11.drawText("Kevin Wojniak", x, y, font11Img);
     y += lineHeight;
     font11.drawText("2018", x, y, font11Img);
-}
+}*/
