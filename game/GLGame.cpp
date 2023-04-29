@@ -640,7 +640,7 @@ void GL::Game::drawBackground() const
     bgImg.draw(0, 0);
 }
 
-void GL::Game::drawTorches() const
+/*void GL::Game::drawTorches() const
 {
     int who = utils.randomInt(4);
     if (evenFrame) {
@@ -648,7 +648,7 @@ void GL::Game::drawTorches() const
     } else {
         torchesImg.draw(flameDestRects[1], flameRects[who]);
     }
-}
+}*/
 
 void GL::Game::drawHand() const
 {
