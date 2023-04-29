@@ -6,6 +6,8 @@
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>${MACOSX_BUNDLE_EXECUTABLE_NAME}</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Slug-Man TVG/Glypha III 2.0.1; John Calhoun, Mark Pazolli, Kevin Wojniak &amp; Bill Amend; Public Domain 2023;</string>
 	<key>CFBundleIconFile</key>
 	<string>icon</string>
 	<key>CFBundleIdentifier</key>
