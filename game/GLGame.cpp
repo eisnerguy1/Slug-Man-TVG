@@ -2840,7 +2840,7 @@ void GL::Game::drawAbout(Renderer *r) const
     x += 8;
     y += 140;
     
-    font11.drawText(GL_GAME_NAME " " GL_GAME_VERSION, x, y, font11Img);
+   /*font11.drawText(GL_GAME_NAME " " GL_GAME_VERSION, x, y, font11Img);*/
 
     y += lineHeight * 2;
     
