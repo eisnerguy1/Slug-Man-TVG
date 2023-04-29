@@ -46,7 +46,7 @@ Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to mo
 <img width="1282" alt="High_Score_Compare" src="https://user-images.githubusercontent.com/3295271/235315108-47e43204-665b-40da-b638-7e8a7f261eed.png">
 3. Match the High Score list as it was shown in the original game<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1. Make the High score title, list #, name, score and level all different colors<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2. Make the High Score screen display lives, score and level completed at the bottom<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2. Make the High Score screen display lives, score and level completed at the bottom after a game over<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. Make the High Score screen font sizes match that of the original game<br>
     <br>
 <img width="640" alt="Screen Shot 2023-04-29 at 12 59 30 PM" src="https://user-images.githubusercontent.com/3295271/235315125-ff8ce46d-8169-494e-a46b-6861c0a62df2.png">
