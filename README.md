@@ -55,6 +55,7 @@ Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to mo
 7. Contact Bill Amend for an updated About image?<br>
 <br>
 <br>
+
 ### Links
 
 - Originally developed by John Calhoun:  
