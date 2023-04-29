@@ -2796,7 +2796,7 @@ void GL::Game::resetHighScores_()
 {
     snprintf(thePrefs.highName, sizeof(thePrefs.highName), "Your Name");
     for (int i = 0; i < 10; ++i) {
-        snprintf(thePrefs.highScores[i].name, sizeof(thePrefs.highScores[i].name), "Nemo");
+        snprintf(thePrefs.highScores[i].name, sizeof(thePrefs.highScores[i].name), "Jason");
         thePrefs.highScores[i].score = 0;
         thePrefs.highScores[i].level = 0;
     }
