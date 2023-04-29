@@ -53,8 +53,8 @@ Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to mo
 5. Have Paige-o-tron flashing on spawn as shown in the original game<br>
 6. Set up Intel/Apple Silicon universal binaries<br>
 7. Contact Bill Amend for an updated About image?<br>
-8. Update Info.plist file<br>
-
+<br>
+<br>
 ### Links
 
 - Originally developed by John Calhoun:  
