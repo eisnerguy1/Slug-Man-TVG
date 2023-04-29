@@ -30,7 +30,7 @@ Ubuntu dependencies:
 ### What is Slug-Man-TVG?
 <img width="640" alt="Slugman_Classic_MacOS" src="https://user-images.githubusercontent.com/3295271/235315963-7ec714d2-b948-4bf4-a159-f8f9bbc32a60.png">
 
-Slug-Man-TVG is a game that was "Created" by Jason Fox, one of the characters in the long-running comic "Fox-Trot". It was [originally released](https://web.archive.org/web/19991128140501/http://www.foxtrot.com/funandgames/gamezone/index.html) in the late 90's for Mac System 6.0.5 or later.
+Slug-Man-TVG is a game that was "Created" by Jason Fox, one of the characters in the long-running comic ["Fox-Trot"](https://foxtrot.com), created by [Bill Amend](https://twitter.com/billamend). It was [originally released](https://web.archive.org/web/19991128140501/http://www.foxtrot.com/funandgames/gamezone/index.html) in the late 90's for Mac System 6.0.5 or later.
 
 It was [then updated](https://web.archive.org/web/20021017024228/http://homepage.mac.com/billamend/) as a Carbon app and added support for Max OS X in 2002.
 
