@@ -38,6 +38,8 @@ Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to mo
 <br>
 <br>
 ### TODO
+The comparison pics have Slug-Man TVG running in Mac OS 7.6.1 via SheepShaver on the left and my fork running on the right.
+
 <img width="1282" alt="Display_Compare" src="https://user-images.githubusercontent.com/3295271/235315052-70f0c0e3-670d-4a12-8478-6ecb134fb011.png">
 
 1. Have the game display in a pixel-perfect mode and not the blurry way it does now
