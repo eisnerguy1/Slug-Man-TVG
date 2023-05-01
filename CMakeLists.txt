@@ -6,8 +6,11 @@ set(EXE_IDENTIFIER "com.kainjow.${EXE_NAME_NOSPACES}")
 
 if(APPLE)
   # must be set before project()
-  set(CMAKE_OSX_DEPLOYMENT_TARGET "10.12" CACHE STRING "Minimum macOS deployment version")
+  set(CMAKE_OSX_DEPLOYMENT_TARGET "11.0" CACHE STRING "Minimum macOS deployment version")
+  set(CMAKE_OSX_ARCHITECTURES "arm64;x86_64" CACHE STRING "" FORCE)
 endif()
+
+# Credit to https://stackoverflow.com/questions/65157483/macos-build-universal-binary-2-with-cmake for the instructions on how to compile a Universal Binary using CMake.
 
 project(Glypha)
 
