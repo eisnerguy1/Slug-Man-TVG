@@ -69,3 +69,6 @@ The comparison pics have SlugMan running in Mac OS 7.6.1 via SheepShaver on the 
 
 - Icon by etherbrian  
 <http://etherbrian.org>
+
+- Here's the Discord link:<br>
+<https://discord.gg/5BQNX5vW>
