@@ -1,5 +1,5 @@
 #include "GLPrefs.h"
-#ifdef GLYPHA_QT
+#ifdef SlugMan_QT
 #include <QSettings>
 #elif defined(__APPLE__)
 #include <CoreFoundation/CoreFoundation.h>
@@ -9,7 +9,7 @@
 
 bool GL::Prefs::load(PrefsInfo& thePrefs)
 {
-#ifdef GLYPHA_QT
+#ifdef SlugMan_QT
     QSettings settings;
     QByteArray data = settings.value("prefs", QByteArray()).toByteArray();
     if (data.size() != sizeof(thePrefs)) {
@@ -45,7 +45,7 @@ bool GL::Prefs::load(PrefsInfo& thePrefs)
 
 void GL::Prefs::save(const PrefsInfo& thePrefs)
 {
-#ifdef GLYPHA_QT
+#ifdef SlugMan_QT
     QSettings settings;
     settings.setValue("prefs", QByteArray((const char*)&thePrefs, sizeof(thePrefs)));
 #elif defined(__APPLE__)

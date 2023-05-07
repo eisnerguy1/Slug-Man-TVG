@@ -11,7 +11,7 @@
 #include <gl/gl.h>
 #elif defined(__HAIKU__)
 #include <GL/gl.h>
-#elif defined(GLYPHA_QT)
+#elif defined(SlugMan_QT)
 #include <QtOpenGL>
 #endif
 

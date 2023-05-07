@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 
-set(EXE_NAME "Slug-Man TVG")
+set(EXE_NAME "SlugMan")
 string(REPLACE " " "" EXE_NAME_NOSPACES "${EXE_NAME}")
 set(EXE_IDENTIFIER "com.kainjow.${EXE_NAME_NOSPACES}")
 
@@ -12,7 +12,7 @@ endif()
 
 # Credit to https://stackoverflow.com/questions/65157483/macos-build-universal-binary-2-with-cmake for the instructions on how to compile a Universal Binary using CMake.
 
-project(Glypha)
+project(SlugMan)
 
 set(CPACK_PACKAGE_VERSION_MAJOR "2")
 set(CPACK_PACKAGE_VERSION_MINOR "0")
@@ -89,7 +89,7 @@ target_include_directories(${PROJECT_NAME} PRIVATE game)
 if(HAVE_QT)
   find_package(Qt5 COMPONENTS Core Widgets OpenGL Multimedia REQUIRED)
   target_link_libraries(${PROJECT_NAME} Qt5::Core Qt5::Widgets Qt5::OpenGL Qt5::Multimedia)
-  target_compile_definitions(${PROJECT_NAME} PRIVATE GLYPHA_QT=)
+  target_compile_definitions(${PROJECT_NAME} PRIVATE SlugMan_QT=)
   if(UNIX)
     target_compile_options(${PROJECT_NAME} PRIVATE
       -std=c++11
@@ -165,7 +165,7 @@ elseif(APPLE)
   if("${CMAKE_BUILD_TYPE}" STREQUAL "RelWithDebInfo")
     set_target_properties(${PROJECT_NAME} PROPERTIES
       XCODE_ATTRIBUTE_CODE_SIGN_IDENTITY "Mac Developer"
-      XCODE_ATTRIBUTE_CODE_SIGN_ENTITLEMENTS "${CMAKE_CURRENT_LIST_DIR}/mac/Glypha.entitlements"
+      XCODE_ATTRIBUTE_CODE_SIGN_ENTITLEMENTS "${CMAKE_CURRENT_LIST_DIR}/mac/SlugMan.entitlements"
     )
   endif()
   target_link_libraries(${PROJECT_NAME}
