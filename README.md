@@ -1,5 +1,6 @@
 <img src="/screenshot_mac.png?raw=true" alt="Mac screenshot" align="right">
 
+
 This is a port of Glypha III from its Mac OS/QuickDraw version (1995) to modern operating systems.
 
 > Glypha III is a classic arcade game originally created by John Calhoun in which you are placed inside an Egyptian temple with only your lance and a winged steed to aid you. Here you are forced to do battle with Sphinxes in order to gain the honour of a place on the High Scores list. The game is based on Joust and features sound and the original animated graphics.
@@ -70,5 +71,5 @@ The comparison pics have SlugMan running in Mac OS 7.6.1 via SheepShaver on the 
 - Icon by etherbrian  
 <http://etherbrian.org>
 
-- Here's the Discord link:<br>
+- <img width="24" src="https://user-images.githubusercontent.com/3295271/236702065-43ec48dd-4f19-424b-9c12-428f23867d09.png"> Here's the Discord link:<br>
 <https://discord.gg/5BQNX5vW>
