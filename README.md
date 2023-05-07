@@ -34,7 +34,7 @@ SlugMan is a game that was "Created" by Jason Fox, one of the characters in the 
 
 It was [then updated](https://web.archive.org/web/20021017024228/http://homepage.mac.com/billamend/) as a Carbon app and added support for Max OS X in 2002.
 
-Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to modify [the code](https://github.com/kainjow/Glypha) of kainjow and create a modern port of SlugMan.
+Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to modify [kainjow's code](https://github.com/kainjow/Glypha) and create a modern port of SlugMan.
 <br>
 <br>
 ### TODO
