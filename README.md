@@ -45,17 +45,8 @@ The comparison pics have SlugMan running in Mac OS 7.6.1 via SheepShaver on the 
 1. Have the game display in a pixel-perfect mode and not the blurry way it does now
 2. Offer a 2x/zoom mode
 
-
-<img width="1282" alt="High_Score_Compare_2" src="https://user-images.githubusercontent.com/3295271/236696605-fa780458-8263-4ffd-a8d5-ec03164bd8b8.png">
-
-3. Match the High Score list as it was shown in the original game<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1. Make the High score title, list #, name, score and level all different colors<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2. Make the High Score screen display lives, score and level completed at the bottom after a game over<br>
-&nbsp;&nbsp;&nbsp;&nbsp;3. Make the High Score screen font sizes match that of the original game<br>
-    <br>
-
 <img width="640" alt="paige_spawn" src="https://user-images.githubusercontent.com/3295271/236696620-87682059-44eb-43fb-abdb-8b9cfbd28a09.png">
-5. Have Paige-o-tron flashing on spawn as shown in the original game<br>
+3. Have Paige-o-tron flashing on spawn as shown in the original game<br>
 <br>
 <br>
 
