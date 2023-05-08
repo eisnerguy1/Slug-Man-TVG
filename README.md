@@ -47,7 +47,7 @@ The comparison pics have SlugMan running in Mac OS 7.6.1 via SheepShaver on the 
 2. Offer a 2x/zoom mode
 
 <img width="1927" alt="High_Score_Compare_3" src="https://user-images.githubusercontent.com/3295271/236742763-58618549-574b-4b69-a754-4599f935d2b0.png">
-3. Make the High Score screen display lives, score and level completed at the bottom, as was shown in th original game & the Carbon Mac OS X port
+3. After a game over, have the High Score screen display lives, score and level completed at the bottom, as was shown in th original game & the Carbon Mac OS X port
 <br><br>
 <img width="640" alt="paige_spawn" src="https://user-images.githubusercontent.com/3295271/236696620-87682059-44eb-43fb-abdb-8b9cfbd28a09.png">
 4. Have Paige-o-tron flashing on spawn as shown in the original game<br>
