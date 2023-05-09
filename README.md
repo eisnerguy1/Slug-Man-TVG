@@ -33,7 +33,8 @@ Ubuntu dependencies:
 
 SlugMan is a game that was "Created" by Jason Fox, one of the characters in the long-running comic ["FoxTrot"](https://foxtrot.com), created by [Bill Amend](https://twitter.com/billamend). It was [originally released](https://web.archive.org/web/19991128140501/http://www.foxtrot.com/funandgames/gamezone/index.html) in the late 90's for Mac System 6.0.5 or later.
 
-It was [then updated](https://web.archive.org/web/20021017024228/http://homepage.mac.com/billamend/) as a Carbon app and added support for Max OS X in 2002.
+It was [then updated](https://web.archive.org/web/20021017024228/http://homepage.mac.com/billamend/) as a Carbon app and added support for Max OS X in 2002. <br><br>The code is based on John Calhoun's original Glypha III code:<br>
+<https://github.com/softdorothy/glypha_III><br>
 
 Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to modify [kainjow's code](https://github.com/kainjow/Glypha) and create a modern port of SlugMan.
 <br>
