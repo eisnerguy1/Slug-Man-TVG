@@ -39,15 +39,15 @@ Since support for PowerPC apps was removed in Mac OS 10.7 Lion, my goal is to mo
 <br>
 <br>
 ### TODO
-The comparison pics have SlugMan running in Mac OS 7.6.1 via SheepShaver on the left and my fork running on the right.
+The comparison pics have SlugMan running in Mac OS 7.6.1 via SheepShaver on the left, the Carbon port in the middle and my fork running on the right.
 
-<img width="1282" alt="Display_Compare_2" src="https://user-images.githubusercontent.com/3295271/236696588-412b0966-2eeb-4996-89b7-354cd415cab6.png">
+<img width="1927" alt="High_Score_Compare_new" src="https://user-images.githubusercontent.com/3295271/236971462-5b2ea52d-72bc-4d3c-b1d9-e96e2921ab17.png"><br>
+1)   Have the game display in a pixel-perfect mode and not the blurry way it does now.<br>
+&nbsp;&nbsp; i) The graphics of Glypha III running in Mac OS 7.6.1 and the Carbon port are sharp while the graphics of the newer port are blurry. Click the image to zoom in to see what I mean.<br>
+2)   Offer a 2x/zoom mode to double the image to 1280x960.<br>
 
-1. Have the game display in a pixel-perfect mode and not the blurry way it does now
-2. Offer a 2x/zoom mode
-
-<img width="1927" alt="High_Score_Compare_3" src="https://user-images.githubusercontent.com/3295271/236742763-58618549-574b-4b69-a754-4599f935d2b0.png">
-3. After a game over, have the High Score screen display lives, score and level completed at the bottom, as was shown in th original game & the Carbon Mac OS X port
+<img width="1927" alt="High_Score_Compare_3" src="https://user-images.githubusercontent.com/3295271/236971529-4931c6e5-888b-4989-a194-7e5831735dbe.png">
+3. After a game over, have the High Score screen display lives, score and level completed at the bottom, as was shown in the original game & the Carbon Mac OS X port. Click the image to zoom in to see what I mean.
 <br><br>
 <img width="640" alt="paige_spawn" src="https://user-images.githubusercontent.com/3295271/236696620-87682059-44eb-43fb-abdb-8b9cfbd28a09.png">
 4. Have Paige-o-tron flashing on spawn as shown in the original game<br>
